@@ -38,5 +38,5 @@ $ gcloud functions describe <function-name>
 
 ## License
 
-&copy; 2020 [Ken Kurosaki](https://github.com/kenqlo).<br>
+&copy; 2020 [Ken Kurosaki](https://github.com/xqiik).<br>
 This project is [MIT](https://github.com/kenqlo/line_echo_bot/blob/master/LICENSE) licensed.
